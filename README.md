@@ -1,2 +1,10 @@
-# presenceSchool
-This project is a smart school management system designed to simplify student attendance tracking, behavioral and academic observations, and educational monitoring for teachers and school administrators. 
+## حضوري - نظام إدارة الحضور والغياب
+
+This app was created using https://getmocha.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
